@@ -36,7 +36,7 @@ recognition in recent years [1].
 ### Architecture
 The implemented architecture consists of a CNN with multiple convolutional and dense layers followed by a max-pool layer
 and a dropout layer and two groups of fully connected layer, followed by a drop-out layer and one final output layer 
-![cnn](/uploads/a2ccd912c7c6cc0d241385ac2070d392/cnn.PNG)
+![cnn](https://gitlab.com/ramzi_ourari/deep_ml_project_19/uploads/a2ccd912c7c6cc0d241385ac2070d392/cnn.PNG)
 ### Proposed variations:
 We will make use of random-search hyper-parameter optimization to determine the best parameters for this architecture and 
 benchmark the results with the published accuracy values.
